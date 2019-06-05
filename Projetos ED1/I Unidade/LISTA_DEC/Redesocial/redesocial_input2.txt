@@ -1,0 +1,30 @@
+ADD Jose da Silva
+SHOW Jose da Silva
+REMOVE Jose da Silva
+ADD Joao dos Santos
+ADD Maria da Penha
+REMOVE Joao dos Santos
+SHOW Maria da Silva
+REMOVE Maria da Silva
+ADD Alan Turing
+SHOW Maria da Penha
+SHOW Alan Turing
+SHOW Bruno Prado
+ADD Stenio
+ADD Erica
+SHOW Stenio
+SHOW Erica
+REMOVE Erica
+SHOW Erica
+ADD Erica
+SHOW Erica
+REMOVE Stenio
+REMOVE Maria da Penha
+REMOVE Alan Turing
+REMOVE Erica
+SHOW Maria da Penha
+SHOW Alan Turing
+SHOW Stenio
+SHOW Erica
+ADD serumano
+SHOW serumano

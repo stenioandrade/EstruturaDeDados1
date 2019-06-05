@@ -1,0 +1,10 @@
+[Jose da Silva] ADD-OK
+[Jose da Silva]<-[Jose da Silva]->[Jose da Silva]
+[Jose da Silva] ADD-ERROR
+[Joao dos Santos] ADD-OK
+[Maria da Penha] ADD-OK
+[Joao dos Santos] REMOVE-OK
+[Maria da Silva] REMOVE-ERROR
+[Alan Turing] ADD-OK
+[Jose da Silva]<-[Maria da Penha]->[Alan Turing]
+[Bruno Prado] SHOW-ERROR
